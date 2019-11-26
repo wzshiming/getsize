@@ -1,0 +1,2 @@
+# getsize
+Gets terminal size.
